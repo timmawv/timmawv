@@ -14,13 +14,12 @@ and have a deep passion for engaging in exciting projects.
 - 📫 How to reach me: **[rrggo76@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpKvtvdGWDvNxnhrQSsjHMDXkbnlxptqkMSNdzCftHtTxVsrVzjsKcMqvwvQLntdCnsNt)**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/timmawv" target="blank"><img align="center" src="" alt="telegram/timmawv" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/timmawv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="50" width="60" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="50" width="60" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="50" width="60" /></a>
+<a href="https://t.me/timmawv" target="blank"><img align="center" src="https://github.com/timmawv/timmawv/blob/main/img/telegram.png?raw=true" alt="telegram/timmawv" height="50" width="50"/></a>
+<a href="https://linkedin.com/in/timmawv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/timmawv" height="50" width="60" /></a>
+<a href="https://instagram.com/timmawv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/timmawv" height="50" width="60" /></a>
 
 ## 🧰 Languages and Tools
-
+<div> 
 <img alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img alt="Spring" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img alt="JUnit 5" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
@@ -44,6 +43,7 @@ and have a deep passion for engaging in exciting projects.
 <img alt="JavaScript" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="Bootstrap" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img alt="Intellij" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+</div>
 
 [//]: # (<img alt="Angular" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />)
 <br/>
