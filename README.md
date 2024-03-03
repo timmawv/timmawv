@@ -1,17 +1,34 @@
 # 🧑🏽‍💻Timur
 
-### Java developer  
+### Java developer
 
 I have 1+ year experience in java, I am a skilled programmer with a solid foundation in Computer Science.
-I am currently getting a master's degree in Kharkiv National University of Radio Electronics (NURE), so i have a bachelor's degree in computer science.
+I am currently getting a master's degree in Kharkiv National University of Radio Electronics (NURE), so i have a
+bachelor's degree in computer science.
 My commitment to continuous learning has never wavered. My primary expertise lies in Java, but over the year, I
-have gained experience with technologies such as JDBC, Java EE, JUnit 5, Mockito, Hibernate, Spring, Docker, Flyway. I thrive on challenges
+have gained experience with technologies such as JDBC, Java EE, JUnit 5, Mockito, Hibernate, Spring, Docker, Flyway. I
+thrive on challenges
 and have a deep passion for engaging in exciting projects.
 
+<details>
+<summary title="1">
+💻 About me
+</summary>
+I am a dedicated Java Developer with a passion for crafting efficient and innovative software solutions.
+While studying Java Core, I mastered the fundamental programming concepts in Java, including data
+structures, object-oriented programming, and exception handling. I learned efficient coding, the use of
+standard libraries, and testing approaches, which allowed me to develop high-quality software solutions.
+After completing the Spring Framework course, I gained in depth knowledge in application development,
+particularly web applications, using Spring. I acquired an understanding of the principles of inversion of
+control, dependency injection, and development practices following Spring's principles, which contribute to
+increased productivity and development efficiency.
+</details>
+
 ### Current information
+
 - 🔭 I’m currently working on: [Tennis-Scoreboard](https://github.com/timmawv/TennisScoreboard)
 - 🌱 I’m currently learning: <font color="red"><b>Java</b></font> and <font color="gree"><b>Spring</b></font>
-- 📫 How to reach me: **[rrggo76@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCpKvtvdGWDvNxnhrQSsjHMDXkbnlxptqkMSNdzCftHtTxVsrVzjsKcMqvwvQLntdCnsNt)**
+- 📫 How to reach me: [rrggo76@gmail.com](mailto:rrggo76@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/timmawv" target="blank"><img align="center" src="https://github.com/timmawv/timmawv/blob/main/img/telegram.png?raw=true" alt="telegram/timmawv" height="50" width="50"/></a>
@@ -19,6 +36,7 @@ and have a deep passion for engaging in exciting projects.
 <a href="https://instagram.com/timmawv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/timmawv" height="50" width="60" /></a>
 
 ## 🧰 Languages and Tools
+
 <div> 
 <img alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img alt="Spring" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -49,19 +67,13 @@ and have a deep passion for engaging in exciting projects.
 <br/>
 
 ### 📊 Stats
+
+<div style="display: flex">
+
 ![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmawv&show_icons=true&theme=tokyonight)
+<div style="margin-left: 30px">
+
 ![Timur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=timmawv&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-<details>
-<summary>
-💻 About me
-</summary>
-I am a dedicated Java Developer with a passion for crafting efficient and innovative software solutions.
-While studying Java Core, I mastered the fundamental programming concepts in Java, including data
-structures, object-oriented programming, and exception handling. I learned efficient coding, the use of
-standard libraries, and testing approaches, which allowed me to develop high-quality software solutions.
-After completing the Spring Framework course, I gained in depth knowledge in application development,
-particularly web applications, using Spring. I acquired an understanding of the principles of inversion of
-control, dependency injection, and development practices following Spring's principles, which contribute to
-increased productivity and development efficiency.
-</details>
+</div>
+</div>
