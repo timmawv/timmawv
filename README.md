@@ -37,11 +37,11 @@ increased productivity and development efficiency.
 
 ## 🧰 Languages and Tools
 
-<div> 
-<img alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img alt="Spring" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<div>
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=java" alt="icons tools"> </a>
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=spring" alt="icons tools"> </a>
 <img alt="JUnit 5" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-<img alt="Docker" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=docker" alt="icons tools"> </a>
 <img alt="Tomcat" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
 <img alt="Postgres" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img alt="Liquibase" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" />
@@ -50,12 +50,12 @@ increased productivity and development efficiency.
 <img alt="MySQL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img alt="SQLServer" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 <img alt="SQLite" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img alt="Maven" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img alt="Gradle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=maven" alt="icons tools"> </a>
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=gradle" alt="icons tools"> </a>
 <img alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img alt="Bash" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=bash" alt="icons tools"> </a>
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=git" alt="icons tools"> </a>
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=github" alt="icons tools"> </a>
 <img alt="HTML" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="JavaScript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
