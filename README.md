@@ -53,7 +53,9 @@ and have a deep passion for engaging in exciting projects.
 ![Timur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=timmawv&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 <details>
-<summary><h3 style="display: inline; color: lightblue">💻 About me</h3></summary>
+<summary>
+💻 About me
+</summary>
 I am a dedicated Java Developer with a passion for crafting efficient and innovative software solutions.
 While studying Java Core, I mastered the fundamental programming concepts in Java, including data
 structures, object-oriented programming, and exception handling. I learned efficient coding, the use of
