@@ -45,9 +45,9 @@ increased productivity and development efficiency.
 <img alt="Tomcat" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
 <img alt="Postgres" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img alt="Liquibase" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" />
-<img alt="MongoDB" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="icons tools"> </a>
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<img alt="MySQL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=mysql" alt="icons tools"> </a>
 <img alt="SQLServer" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 <img alt="SQLite" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=maven" alt="icons tools"> </a>
