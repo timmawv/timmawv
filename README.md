@@ -26,7 +26,7 @@ increased productivity and development efficiency.
 
 ### Current information
 
-- 🔭 I’m currently working on: [Tennis-Scoreboard](https://github.com/timmawv/TennisScoreboard)
+- 🔭 I’m currently working on: [Tennis-Scoreboard](https://github.com/timmawv/WeatherApp)
 - 🌱 I’m currently learning: <font color="red"><b>Java</b></font> and <font color="gree"><b>Spring</b></font>
 - 📫 How to reach me: [rrggo76@gmail.com](mailto:rrggo76@gmail.com)
 
