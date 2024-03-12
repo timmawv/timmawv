@@ -27,7 +27,7 @@ increased productivity and development efficiency.
 ### Current information
 
 - 🔭 I’m currently working on: [Tennis-Scoreboard](https://github.com/timmawv/TennisScoreboard)
-- 🌱 I’m currently learning: Java and Spring
+- 🌱 I’m currently learning: <font color="red"><b>Java</b></font> and <font color="gree"><b>Spring</b></font>
 - 📫 How to reach me: [rrggo76@gmail.com](mailto:rrggo76@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
@@ -68,12 +68,12 @@ increased productivity and development efficiency.
 
 ### 📊 Stats
 
-<div style="display: flex; justify-content: space-between;">
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/timmawv?theme=dark)
+<div style="display: flex">
 
 ![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmawv&show_icons=true&theme=tokyonight)
+<div style="margin-left: 30px">
 
 ![Timur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=timmawv&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
+</div>
 </div>
