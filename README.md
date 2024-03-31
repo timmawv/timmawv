@@ -28,7 +28,8 @@ increased productivity and development efficiency.
 
 - 🔭 I’m currently working on: [Weather App](https://github.com/timmawv/WeatherApp)
 - 🌱 I’m currently learning: Java and Spring
-- 📫 How to reach me: [rrggo76@gmail.com](mailto:rrggo76@gmail.com)
+- 📫 How to reach me email: [rrggo76@gmail.com](mailto:rrggo76@gmail.com)
+- 📫 How to reach me telegram: [@timmawv](https://t.me/timmawv)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/timmawv" target="blank"><img align="center" src="https://github.com/timmawv/timmawv/blob/main/img/telegram.png?raw=true" alt="telegram/timmawv" height="50" width="50"/></a>
