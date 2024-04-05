@@ -2,7 +2,7 @@
 
 ### Java developer
 
-I have 1+ year experience in java, I am a skilled programmer with a solid foundation in Computer Science.
+I am a skilled programmer with a solid foundation in Computer Science.
 I am currently getting a master's degree in Kharkiv National University of Radio Electronics (NURE), so i have a
 bachelor's degree in computer science.
 My commitment to continuous learning has never wavered. My primary expertise lies in Java, but over the year, I
