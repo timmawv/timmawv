@@ -30,7 +30,6 @@ increased productivity and development efficiency.
 - 🌱 I’m currently learning: Java and Spring
 - 📫 How to reach me email: [rrggo76@gmail.com](mailto:rrggo76@gmail.com)
 - 📫 How to reach me telegram: [@timmawv](https://t.me/timmawv)
-- 📃 My CV: [resume](https://drive.google.com/file/d/1fdDztVyeNg6EeUrPs8TjBOJbQ2cWn04n/view?usp=drive_link****)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/timmawv" target="blank"><img align="center" src="https://github.com/timmawv/timmawv/blob/main/img/telegram.png?raw=true" alt="telegram/timmawv" height="50" width="50"/></a>
