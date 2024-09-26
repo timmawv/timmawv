@@ -26,7 +26,7 @@ increased productivity and development efficiency.
 
 ### Current information
 
-- 🔭 I’m currently working on: [Cloud File Storage](https://github.com/timmawv/Cloud-File-Storage)
+- 🔭 I’m currently working on: [Task Tracker](https://github.com/timmawv/task-tracker-api)
 - 🌱 I’m currently learning: Java and Spring
 - 📫 How to reach me email: [rrggo76@gmail.com](mailto:rrggo76@gmail.com)
 - 📫 How to reach me telegram: [@timmawv](https://t.me/timmawv)
@@ -41,10 +41,11 @@ increased productivity and development efficiency.
 <div>
 <a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=java" alt="icons tools"> </a>
 <a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=spring" alt="icons tools"> </a>
-<img alt="JUnit 5" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+<a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=kafka" alt="icons tools"> </a>
 <a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=docker" alt="icons tools"> </a>
-<img alt="Tomcat" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
+<img alt="JUnit 5" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
 <img alt="Postgres" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img alt="Tomcat" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" />
 <img alt="Liquibase" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" />
 <a href="https://github.com/thinkright20"><img style="padding-right: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="icons tools"> </a>
 <img alt="Redis" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
