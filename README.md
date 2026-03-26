@@ -2,26 +2,29 @@
 
 ### Java developer
 
-I am a skilled programmer with a solid foundation in Computer Science.
-I am currently getting a master's degree in Kharkiv National University of Radio Electronics (NURE), so i have a
-bachelor's degree in computer science.
-My commitment to continuous learning has never wavered. My primary expertise lies in Java, but over the year, I
-have gained experience with technologies such as JDBC, Java EE, JUnit 5, Mockito, Hibernate, Spring, Docker, Flyway. I
-thrive on challenges
-and have a deep passion for engaging in exciting projects.
+Java
+Developer with 3.5+ years of commercial experience in the banking domain, focused on payment processing systems and mission-critical financial applications. Experienced in designing and implementing new
+business features, ensuring transactional integrity, and maintaining high system availability under heavy load.
+Strong advocate of automated testing (unit and integration), clean architecture, and performance optimization.
+Contributed to improving reliability, monitoring, and resilience of payment services in production environments.
 
 <details>
 <summary title="1">
 💻 About me
 </summary>
-I am a dedicated Java Developer with a passion for crafting efficient and innovative software solutions.
-While studying Java Core, I mastered the fundamental programming concepts in Java, including data
-structures, object-oriented programming, and exception handling. I learned efficient coding, the use of
-standard libraries, and testing approaches, which allowed me to develop high-quality software solutions.
-After completing the Spring Framework course, I gained in depth knowledge in application development,
-particularly web applications, using Spring. I acquired an understanding of the principles of inversion of
-control, dependency injection, and development practices following Spring's principles, which contribute to
-increased productivity and development efficiency.
+Worked on core banking systems at PrivatBank, focusing on payment processing and high-load financial services.
+The platform handled instant payments and critical financial operations, requiring high reliability, performance, and
+consistency.
+Responsibilities:
+- Designed, developed, and maintained scalable microservices within an event-driven architecture.
+- Worked on services responsible for processing instant payments and ensuring their stability.
+- Strengthened system resilience with fallback mechanisms, retry strategies, to handle external service failures.
+- Participated in production support, monitoring, and incident resolution for critical payment services.
+Achievements:
+- Developed a complex instant payment system, improving system performance by 15%.
+- Minimized transaction failure rate from 5% to 0.01% through network recovery logic.
+- Designed an asynchronous error logging mechanism, increasing system fault tolerance by 20
+- Reduced cache update latency to <10s via Kafka event processing.
 </details>
 
 ### Current information
