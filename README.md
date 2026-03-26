@@ -14,16 +14,16 @@ Contributed to improving reliability, monitoring, and resilience of payment serv
 </summary>
 Worked on core banking systems at PrivatBank, focusing on payment processing and high-load financial services.
 The platform handled instant payments and critical financial operations, requiring high reliability, performance, and
-consistency.
-Responsibilities:
-- Designed, developed, and maintained scalable microservices within an event-driven architecture.
-- Worked on services responsible for processing instant payments and ensuring their stability.
-- Strengthened system resilience with fallback mechanisms, retry strategies, to handle external service failures.
-- Participated in production support, monitoring, and incident resolution for critical payment services.
-Achievements:
-- Developed a complex instant payment system, improving system performance by 15%.
-- Minimized transaction failure rate from 5% to 0.01% through network recovery logic.
-- Designed an asynchronous error logging mechanism, increasing system fault tolerance by 20
+consistency.<br>
+Responsibilities:<br>
+- Designed, developed, and maintained scalable microservices within an event-driven architecture. <br>
+- Worked on services responsible for processing instant payments and ensuring their stability. <br>
+- Strengthened system resilience with fallback mechanisms, retry strategies, to handle external service failures.<br>
+- Participated in production support, monitoring, and incident resolution for critical payment services.<br>
+Achievements:<br>
+- Developed a complex instant payment system, improving system performance by 15%.<br>
+- Minimized transaction failure rate from 5% to 0.01% through network recovery logic.<br>
+- Designed an asynchronous error logging mechanism, increasing system fault tolerance by 20% <br>
 - Reduced cache update latency to <10s via Kafka event processing.
 </details>
 
